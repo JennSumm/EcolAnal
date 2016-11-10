@@ -50,4 +50,4 @@ summary(scam.aov)
 
 
 # in class we used lm() or gls() so check this out
-
+ blah blha blahalsdjfaiweroihawdf
